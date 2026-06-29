@@ -176,6 +176,14 @@ This dashboard helps hospital management:
 
 #  Dashboard Preview
 
+<img width="1312" height="792" alt="Executive Overview" src="https://github.com/user-attachments/assets/63e80650-9c07-4ec2-a3f9-11cbc2010209" />
+<img width="1310" height="783" alt="Patient Analytics" src="https://github.com/user-attachments/assets/4d71e33c-0f2b-438f-b17d-071bf05558bc" />
+<img width="1312" height="791" alt="Financial Analytics" src="https://github.com/user-attachments/assets/0cd1ef3e-34f1-46f0-a488-43912f9db6e4" />
+<img width="1322" height="785" alt="Revenue by States" src="https://github.com/user-attachments/assets/ebc1f260-7469-4a49-934c-ffc10fe707ed" />
+<img width="1305" height="790" alt="About" src="https://github.com/user-attachments/assets/0669cf92-e507-4607-8df6-da25106c6823" />
+
+
+
 
 ---
 
